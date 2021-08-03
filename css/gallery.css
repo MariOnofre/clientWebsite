@@ -1,0 +1,15 @@
+#center{
+    text-align: center;
+}
+
+#indent{
+    text-indent: 20px;
+}
+
+body{
+    background-color: rgb(235, 224, 209);
+}
+
+#cardslength{
+    min-height: 170px;
+}
