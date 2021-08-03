@@ -4,7 +4,7 @@
 
 #indent{
     text-indent: 20px;
-    background-color: darkgray;
+    color: darkblue;
 }
 
 body{
@@ -12,9 +12,9 @@ body{
 }
 
 #cardslength{
-    min-height: 170px;
+    min-height: 250px;
 }
 
 #color{
-    background-color: rgb(255, 250, 240);
+    background-color: rgba(219, 238, 243, 0.685);
 }
