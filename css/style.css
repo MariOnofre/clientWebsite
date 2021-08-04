@@ -1,8 +1,13 @@
 body{
-    background-color: rgb(214, 238, 247);
+    background-color: rgb(235, 224, 209);
 
     border: lightblue;
 }
 #paragraph{
     border: black;
 }
+
+#indent{
+    text-indent: 20px;
+    background-color: rgba(255, 255, 255, 0.479);
+    color: rgb(9, 97, 97);
