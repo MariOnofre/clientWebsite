@@ -11,3 +11,8 @@ body{
     text-indent: 20px;
     background-color: rgba(255, 255, 255, 0.479);
     color: rgb(9, 97, 97);
+}
+
+#title{
+    text-indent: 165px;
+}
